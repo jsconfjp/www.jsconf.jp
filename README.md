@@ -1,1 +1,2 @@
-Move to jsconf.jp
+Temporal redirector to jsconf.jp
+
